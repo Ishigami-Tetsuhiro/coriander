@@ -93,7 +93,7 @@ class MyApp extends StatelessWidget {
                           ),
                           Row(
                             children: [
-                              Text('600回再生',
+                              Text('700回再生',
                                 style: TextStyle(
                                 fontSize: 13,
                                 ),
