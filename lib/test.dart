@@ -1,6 +1,6 @@
+import 'package:coriander/main_model.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:youtube_app/main_model.dart';
 void main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   @override
